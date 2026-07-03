@@ -176,6 +176,44 @@ The dashboard provides insights into:
 
 ---
 
+---
+
+# 📷 Dashboard Preview
+
+## Executive Overview
+
+![Overview](Overview.png)
+
+---
+
+## Inventory Dashboard
+
+![Inventory](Inventory.png)
+
+---
+
+## Sales Dashboard
+
+![Sales](Sales.png)
+
+---
+
+## Maintenance Dashboard
+
+![Maintenance](Maintenance.png)
+
+---
+
+## Customers Dashboard
+
+![Customers](Customers.png)
+
+---
+
+## Employees Dashboard
+
+![Employees](Employees.png)
+
 # 👨‍💻 Author
 
 **Youssef Tarek**
