@@ -4,7 +4,7 @@
   <b>MySQL • SQL • Power BI • Database Design</b>
 </p>
 
-A complete Computer Shop Management System built using **MySQL** and **Power BI** to manage inventory, sales, customers, employees, and maintenance operations through an interactive business intelligence dashboard.
+A complete **Computer Shop Management System** designed using **MySQL** for database management and **Power BI** for business intelligence reporting. The project includes database design, SQL development, data analysis, and six interactive dashboards covering sales, inventory, customers, employees, and maintenance.
 
 ---
 ---
