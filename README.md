@@ -1,7 +1,12 @@
 # 🖥️ Computer Shop Management System
 
+<p align="center">
+  <b>MySQL • SQL • Power BI • Database Design</b>
+</p>
+
 A complete Computer Shop Management System built using **MySQL** and **Power BI** to manage inventory, sales, customers, employees, and maintenance operations through an interactive business intelligence dashboard.
 
+---
 ---
 
 # 📌 Project Overview
@@ -180,39 +185,39 @@ The dashboard provides insights into:
 
 # 📷 Dashboard Preview
 
-## Executive Overview
+## 🏠 Executive Overview
 
-![Overview](Overview.png)
-
----
-
-## Inventory Dashboard
-
-![Inventory](Inventory.png)
+![Overview](Dashboard%20Images/Overview.png)
 
 ---
 
-## Sales Dashboard
+## 📦 Inventory Dashboard
 
-![Sales](Sales.png)
-
----
-
-## Maintenance Dashboard
-
-![Maintenance](Maintenance.png)
+![Inventory](Dashboard%20Images/Inventory.png)
 
 ---
 
-## Customers Dashboard
+## 💰 Sales Dashboard
 
-![Customers](Customers.png)
+![Sales](Dashboard%20Images/Sales.png)
 
 ---
 
-## Employees Dashboard
+## 🔧 Maintenance Dashboard
 
-![Employees](Employees.png)
+![Maintenance](Dashboard%20Images/Maintenance.png)
+
+---
+
+## 👥 Customers Dashboard
+
+![Customers](Dashboard%20Images/Customers.png)
+
+---
+
+## 👨‍💼 Employees Dashboard
+
+![Employees](Dashboard%20Images/Employees.png)
 
 # 👨‍💻 Author
 
